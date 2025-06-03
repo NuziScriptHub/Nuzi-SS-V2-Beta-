@@ -1,0 +1,9 @@
+{
+  "Whitelist": {
+    "hafiez1234567890": true,
+    "debugtestname": true
+  },
+  "Banlist": {
+    "Roblox": true
+  }
+}
